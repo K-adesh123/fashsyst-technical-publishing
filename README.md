@@ -115,8 +115,17 @@ These are development-lab results, not evidence of a production deployment.
 - Add automated unit tests for file validation, title extraction, and Markdown conversion.
 - Add API error classification, retries where appropriate, logging, and duplicate prevention.
 - Pin dependency versions and add continuous integration checks.
-- Add reviewed screenshots, architecture evidence, and an interview study guide.
+- Extend the evidence set with redacted terminal captures, automated test results, and incident/recovery exercises.
 - Consider DEV.to or LinkedIn distribution **only after** explicit editorial approval.
+
+## Portfolio evidence
+
+The repository includes two screenshots from the verified development workflow:
+
+1. [Blogger unpublished draft confirmed](docs/screenshots/01-blogger-draft-confirmed.jpg) — shows the Markdown article saved as an unpublished draft in Blogger.
+2. [Initial GitHub source push](docs/screenshots/02-github-initial-push.jpg) — shows the dedicated public project repository and initial commit.
+
+For the implementation walkthrough, failure scenarios, and practice interview questions, see the **[Project Study & Interview Guide](docs/PROJECT_STUDY_GUIDE.md)**.
 
 ## Interview explanation
 
