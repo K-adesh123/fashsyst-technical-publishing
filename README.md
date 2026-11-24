@@ -118,6 +118,12 @@ These are development-lab results, not evidence of a production deployment.
 - Extend the evidence set with redacted terminal captures, automated test results, and incident/recovery exercises.
 - Consider DEV.to or LinkedIn distribution **only after** explicit editorial approval.
 
+## Published project article
+
+**Original technical case study:** [How I Built a Markdown-to-Blogger Publishing Pipeline with Python and Google OAuth 2.0](https://blog.fashelcreations.com/2026/11/how-i-built-markdown-to-blogger.html)
+
+The article describes the implemented architecture, OAuth connection, Markdown conversion, draft-only API submission, verification screenshots, and engineering limitations. The Blogger article is the original publication for any future cross-posts.
+
 ## Portfolio evidence
 
 The repository includes two screenshots from the verified development workflow:
